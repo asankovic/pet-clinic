@@ -1,0 +1,14 @@
+org\foi\asankovic\sfgpetclinic\model\Pet.class
+org\foi\asankovic\sfgpetclinic\services\map\VetServiceMap.class
+org\foi\asankovic\sfgpetclinic\services\CrudService.class
+org\foi\asankovic\sfgpetclinic\services\map\PetServiceMap.class
+org\foi\asankovic\sfgpetclinic\services\map\OwnerServiceMap.class
+org\foi\asankovic\sfgpetclinic\services\map\AbstractMapService.class
+org\foi\asankovic\sfgpetclinic\services\PetService.class
+org\foi\asankovic\sfgpetclinic\services\VetService.class
+org\foi\asankovic\sfgpetclinic\model\Vet.class
+org\foi\asankovic\sfgpetclinic\model\BaseEntity.class
+org\foi\asankovic\sfgpetclinic\services\OwnerService.class
+org\foi\asankovic\sfgpetclinic\model\PetType.class
+org\foi\asankovic\sfgpetclinic\model\Person.class
+org\foi\asankovic\sfgpetclinic\model\Owner.class

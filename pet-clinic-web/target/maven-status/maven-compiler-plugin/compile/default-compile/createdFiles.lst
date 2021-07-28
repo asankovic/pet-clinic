@@ -1,0 +1,5 @@
+org\foi\asankovic\sfgpetclinic\controllers\OwnerController.class
+org\foi\asankovic\sfgpetclinic\SfgPetClinicApplication.class
+org\foi\asankovic\sfgpetclinic\bootstrap\DataLoader.class
+org\foi\asankovic\sfgpetclinic\controllers\IndexController.class
+org\foi\asankovic\sfgpetclinic\controllers\VetController.class

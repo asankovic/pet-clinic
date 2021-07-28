@@ -1,0 +1,14 @@
+D:\Spring\CourseCode-ljeto2021\sfg-pet-clinic\pet-clinic-data\src\main\java\org\foi\asankovic\sfgpetclinic\model\BaseEntity.java
+D:\Spring\CourseCode-ljeto2021\sfg-pet-clinic\pet-clinic-data\src\main\java\org\foi\asankovic\sfgpetclinic\model\Vet.java
+D:\Spring\CourseCode-ljeto2021\sfg-pet-clinic\pet-clinic-data\src\main\java\org\foi\asankovic\sfgpetclinic\model\PetType.java
+D:\Spring\CourseCode-ljeto2021\sfg-pet-clinic\pet-clinic-data\src\main\java\org\foi\asankovic\sfgpetclinic\services\map\AbstractMapService.java
+D:\Spring\CourseCode-ljeto2021\sfg-pet-clinic\pet-clinic-data\src\main\java\org\foi\asankovic\sfgpetclinic\services\CrudService.java
+D:\Spring\CourseCode-ljeto2021\sfg-pet-clinic\pet-clinic-data\src\main\java\org\foi\asankovic\sfgpetclinic\model\Person.java
+D:\Spring\CourseCode-ljeto2021\sfg-pet-clinic\pet-clinic-data\src\main\java\org\foi\asankovic\sfgpetclinic\model\Owner.java
+D:\Spring\CourseCode-ljeto2021\sfg-pet-clinic\pet-clinic-data\src\main\java\org\foi\asankovic\sfgpetclinic\services\OwnerService.java
+D:\Spring\CourseCode-ljeto2021\sfg-pet-clinic\pet-clinic-data\src\main\java\org\foi\asankovic\sfgpetclinic\services\PetService.java
+D:\Spring\CourseCode-ljeto2021\sfg-pet-clinic\pet-clinic-data\src\main\java\org\foi\asankovic\sfgpetclinic\services\map\VetServiceMap.java
+D:\Spring\CourseCode-ljeto2021\sfg-pet-clinic\pet-clinic-data\src\main\java\org\foi\asankovic\sfgpetclinic\model\Pet.java
+D:\Spring\CourseCode-ljeto2021\sfg-pet-clinic\pet-clinic-data\src\main\java\org\foi\asankovic\sfgpetclinic\services\VetService.java
+D:\Spring\CourseCode-ljeto2021\sfg-pet-clinic\pet-clinic-data\src\main\java\org\foi\asankovic\sfgpetclinic\services\map\OwnerServiceMap.java
+D:\Spring\CourseCode-ljeto2021\sfg-pet-clinic\pet-clinic-data\src\main\java\org\foi\asankovic\sfgpetclinic\services\map\PetServiceMap.java
